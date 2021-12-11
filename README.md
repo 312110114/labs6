@@ -1,8 +1,11 @@
 # labs6
 
 Nama	: Tedi Mulyadi
+
 Nim	:312110114
+
 Kelas	: TI.21.C.1
+
 Tugas	: Pemrograman
 
 
