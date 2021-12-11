@@ -71,6 +71,7 @@ print(d("tedi"))
 
 # Output :
 
+![gambar](ss/6.png)
 
 # Praktikum
 
@@ -120,6 +121,7 @@ if c.lower() == 't':
 
 # Output Menambahkan Data :
 
+![gambar](ss/1.png)
 
 •	Jika ingin menampilkan data dapat menggunakan
 
@@ -167,6 +169,7 @@ elif c.lower() == 'l':
 
 # Output menampilkan data :
 
+![gambar](ss/3.png)
 
 •	Mengubah data dapat menggunakan
 
@@ -197,6 +200,7 @@ elif c.lower() == 'u':
 
 # Output mengubah data : 
 
+![gambar](ss/4.png)
 
 •	Menghapus data dapat menggunakan
 
@@ -216,6 +220,7 @@ elif c.lower() == 'h':
 
 # Output menghapus data :
 
+![gambar](ss/5.png)
 
 •	Mencari data dapat menggunakan
  
@@ -255,3 +260,4 @@ elif c. lower() == 'k':
 
 # Flowchart :
 
+![gambar](ss/2.png)
